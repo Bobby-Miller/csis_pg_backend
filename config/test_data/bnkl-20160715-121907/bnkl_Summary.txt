@@ -1,0 +1,16 @@
+BATCH ID: bnkl
+DATE:7/15/2016
+TIME: 12:19 PM
+RESULTS
+
+Total	1211	100.0
+Good	503	41.5
+Fail	405	33.4
+Fail - OD	287	23.7
+Backwards	2	0.2
+N/A	14	1.2
+
+
+Lost to Homing:0
+Batch Homes:0
+Gate Lost: 1

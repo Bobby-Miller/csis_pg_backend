@@ -1,0 +1,11 @@
+Batch ID: test
+Total: 8013
+Pass: 3420
+Fail: 2667
+Fail OD: 1743
+Backwards: 28
+N/A: 154
+Downstream Counter: 48490
+ Lost to Homing: 51
+Batch Homes: 6
+Gate Lost: 13

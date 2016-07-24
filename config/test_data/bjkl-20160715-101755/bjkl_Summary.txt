@@ -1,0 +1,16 @@
+BATCH ID: bjkl
+DATE:7/15/2016
+TIME: 1:17 PM
+RESULTS
+
+Total	2	100.0
+Good	1	50.0
+Fail	1	50.0
+Fail - OD	0	0.0
+Backwards	0	0.0
+N/A	0	0.0
+
+
+Lost to Homing:0
+Batch Homes:0
+Gate Lost: 0

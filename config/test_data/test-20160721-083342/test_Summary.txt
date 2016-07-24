@@ -1,0 +1,16 @@
+BATCH ID: test
+DATE:7/21/2016
+TIME: 8:33 AM
+RESULTS
+
+Total	8013	100.0
+Good	3420	42.7
+Fail	2667	33.3
+Fail - OD	1743	21.8
+Backwards	28	0.3
+N/A	154	1.9
+
+
+Lost to Homing:51
+Batch Homes:6
+Gate Lost: 13

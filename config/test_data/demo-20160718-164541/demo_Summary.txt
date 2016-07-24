@@ -1,0 +1,16 @@
+BATCH ID: demo
+DATE:7/18/2016
+TIME: 4:45 PM
+RESULTS
+
+Total	563	100.0
+Good	267	47.4
+Fail	168	29.8
+Fail - OD	112	19.9
+Backwards	3	0.5
+N/A	13	2.3
+
+
+Lost to Homing:0
+Batch Homes:0
+Gate Lost: 1
